@@ -77,7 +77,7 @@ Lines:
 
 text = load_text(CharacterName.TOBIAS)
 
-st.write("\nTobias Funke Bot")
+st.write("\nArrested Development Bot")
 
 character = st.selectbox(
     "Character: ",
